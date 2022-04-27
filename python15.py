@@ -1,0 +1,6 @@
+value = input("input:")
+n1 = int(value)
+n2 = int(value + value)
+n3 = int(value + value + value)
+n4 = int(value + value + value + value)
+print(n1 + n2 + n3 + n4)
